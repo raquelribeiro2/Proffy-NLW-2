@@ -23,7 +23,7 @@ Quando seu professor for encontrado, você poderá entrar em contato com ele via
 
 ## Tecnologias utilizadas
 
-- Backend desenvolvido com Javascript, com auxílio do Framework Express;
+- Backend desenvolvido com NodeJS, com auxílio do Framework Express;
 - Banco de Dados SQLite;
 - Frontend desenvolvido com Javascript, HTML e CSS;
 - Design Responsivo para Mobile, Tablet e Desktop;
